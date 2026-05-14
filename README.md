@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Ngoc Le 👋
+
+🎓 I'm currently studying for my Master's degree in AI/ML
+
+📫 How to reach me: ngocleltt@gmail.com
+
+---
+
+### 🛠 Technologies and Tools 🛠
+
+
 
 <!--
 **ngocleltt/ngocleltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
