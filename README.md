@@ -4,10 +4,6 @@
 
 📫 How to reach me: ngocleltt@gmail.com
 
----
-
-### 🛠 Technologies and Tools 🛠
-
 
 
 <!--
